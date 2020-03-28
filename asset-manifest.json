@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/APwebsiteReact/static/css/main.5f361e03.chunk.css",
+    "main.js": "/APwebsiteReact/static/js/main.addb1ed2.chunk.js",
+    "main.js.map": "/APwebsiteReact/static/js/main.addb1ed2.chunk.js.map",
+    "runtime-main.js": "/APwebsiteReact/static/js/runtime-main.fe8839aa.js",
+    "runtime-main.js.map": "/APwebsiteReact/static/js/runtime-main.fe8839aa.js.map",
+    "static/js/2.e4e100ae.chunk.js": "/APwebsiteReact/static/js/2.e4e100ae.chunk.js",
+    "static/js/2.e4e100ae.chunk.js.map": "/APwebsiteReact/static/js/2.e4e100ae.chunk.js.map",
+    "index.html": "/APwebsiteReact/index.html",
+    "precache-manifest.b0606b9f297e6d56306eea75e2c4709c.js": "/APwebsiteReact/precache-manifest.b0606b9f297e6d56306eea75e2c4709c.js",
+    "service-worker.js": "/APwebsiteReact/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/APwebsiteReact/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.e4e100ae.chunk.js.LICENSE.txt": "/APwebsiteReact/static/js/2.e4e100ae.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/APwebsiteReact/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe8839aa.js",
+    "static/js/2.e4e100ae.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.addb1ed2.chunk.js"
+  ]
+}
